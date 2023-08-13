@@ -18,3 +18,4 @@ jobs:
         run: |
           ./gradlew applyPatches
           ./gradlew createReobfBundlerJar
+          ./gradlew build
